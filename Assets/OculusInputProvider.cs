@@ -2,7 +2,7 @@ using System;
 using OculusSampleFramework;
 using UnityEngine;
 
-/*
+
 public class HandsDiabloMoveInput : IMoveInput
 {
     const float PinchStrength = 1.0f;
@@ -80,4 +80,3 @@ public class OculusInputProvider : APlayerClient
         _moveDir = Vector3.Normalize(_moveDir.normalized);
     }
 }
-*/
