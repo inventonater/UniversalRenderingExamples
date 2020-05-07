@@ -1,0 +1,3 @@
+[submodule "Packages/org.nightlifearcade.art.particles"]
+	path = Packages/org.nightlifearcade.art.particles
+	url = https://github.com/inventonater/org.nightlifearcade.art.particles
